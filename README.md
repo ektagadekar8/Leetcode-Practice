@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0414-third-maximum-number](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
