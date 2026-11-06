@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0414-third-maximum-number](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
