@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
