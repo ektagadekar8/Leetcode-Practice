@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0771-jewels-and-stones](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
