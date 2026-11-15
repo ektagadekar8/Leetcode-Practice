@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0414-third-maximum-number](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0766-toeplitz-matrix](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
