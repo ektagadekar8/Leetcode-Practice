@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/ektagadekar8/Leetcode-Practice/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
